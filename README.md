@@ -21,7 +21,7 @@ sudo docker exec -it gitlab cat /etc/gitlab/initial_root_password
 
 ## 二、创建项目 & 添加 webhook
 
-![gitlab2]([F:\picture\](https://cdn.jsdelivr.net/gh/GLTechnologies/DevOps/gitlab/gitlab2.png)
+![gitlab2](https://cdn.jsdelivr.net/gh/GLTechnologies/DevOps/gitlab/gitlab2.png)
 
 ![gitlab3](F:\picture\gitlab3.png)
 
