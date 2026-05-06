@@ -17,13 +17,13 @@ sudo docker exec -it gitlab cat /etc/gitlab/initial_root_password
 
 ## 一、
 
-![image-20251229180857517](F:\picture\gitlab1.png)
+![image-20251229180857517](https://cdn.jsdelivr.net/gh/GLTechnologies/DevOps/gitlab/gitlab1.png)
 
 ## 二、创建项目 & 添加 webhook
 
 ![gitlab2](https://cdn.jsdelivr.net/gh/GLTechnologies/DevOps/gitlab/gitlab2.png)
 
-![gitlab3](F:\picture\gitlab3.png)
+![gitlab3](https://cdn.jsdelivr.net/gh/GLTechnologies/DevOps/gitlab/gitlab3.png)
 
 ## 三、创建 Jenkinsfile
 
